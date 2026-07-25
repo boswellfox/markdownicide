@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/ohgodwhy2000/markdownicide#readme",
   "devDependencies": {
-    "prettier": "^3.9.5"
+    "prettier": "^3.9.6"
   }
 }
